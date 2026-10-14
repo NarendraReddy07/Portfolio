@@ -20,6 +20,3 @@ Open http://localhost:8000
    git push -u origin main
    ```
 3. Settings > Pages > Deploy from a branch > `main` / `(root)` > Save.
-4. Live at https://NarendraReddy07.github.io
-
-Design based on https://aahana-surya.github.io/ with the owner's permission.
